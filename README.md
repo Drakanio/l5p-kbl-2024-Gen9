@@ -1,4 +1,4 @@
-#Forked from https://github.com/imShara/l5p-kbl
+##Forked from https://github.com/imShara/l5p-kbl
 
 ![Lenovo Legion 5 Pro 2021 Linux RGB Keyboard Light Controller](https://i.imgur.com/FhBMS9W.jpg)
 
